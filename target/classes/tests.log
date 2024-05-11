@@ -1,0 +1,7 @@
+648  [main] INFO  BookingServiceTest - Mock object BookingService created
+681  [main] INFO  BookingServiceTest - Test CreateBookWithMockThrowException run
+738  [main] DEBUG BookingServiceTest - BookingService throw CantBookException
+743  [main] INFO  BookingServiceTest - Test CreateBookWithMockThrowException completed
+755  [main] INFO  BookingServiceTest - Test CreateBookWithMockTrue run
+760  [main] DEBUG BookingServiceTest - BookingService return true
+762  [main] INFO  BookingServiceTest - Test CreateBookWithMockTrue completed
